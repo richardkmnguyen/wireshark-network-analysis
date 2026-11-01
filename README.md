@@ -18,6 +18,8 @@ I used Wireshark to capture and read live network traffic by filtering thousands
 | **Environment** | Azure VM |
 | **Time** | 2 hours |
 
+<img width="1306" height="726" alt="image" src="https://github.com/user-attachments/assets/b35ea4cc-dfaf-46d9-8633-5746e1bee7b5" />
+
 ---
 
 ## What network analysis is for
